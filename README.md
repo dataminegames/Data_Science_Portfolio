@@ -4,19 +4,19 @@
 
 ## About
 ---
--
+About
 
 
 ## Table of Contents
-- Datascience Road Map
+- Data Science Road Map
 - Work Experience
   - Description
   - Projects
 - Projects
-- Toy Projects
-  - ML
-  - DL
-- Sources
+- Study
+  - Toy Projects (Kaggle)
+  - Mathematics
+  - Sources
 - Contact
 
 
@@ -24,17 +24,17 @@
 ---
 - Info
   - Job Title : AI 연구원
-  - Field : 반도체/디스플레이 스마트팩토리 인공지능
+  - Field : 반도체/디스플레이 등 제조 스마트팩토리 인공지능
   - Dataset: 공정 데이터
   
-- Projects<br>
----
-|Title|Problem|Data Type|Descrription|Model|Stack|Duration|
-|:---:|:-----:|:-------:|:----------:|:---:|:---:|:------:|
-|가상계측 모델|Classification|Time Series|||||
-|R2R 솔루션 연구|Classification|Time Series|||||
-|이미지 분석 솔루션 개발|Classification|Image|||||
-|분류 모델|Classification|Image|||||
+- Projects
+
+|Title|Data Type|Descrription|Preprocessing|Model|Stack|Duration|
+|:---:|:-------:|:----------:|:-----------:|:---:|:---:|:------:|
+|가상계측 모델|Time Series, <br> structured data|공정 데이터를 활용해 계측값을 예측하는 가상계측 모델을 만들어 계측공정 생략|Anomaly detection, resampling 등|DNN + CNN + biLSTM + Self-Attention|Python, Keras, msSQL|2019.11 - 2019.11|
+|R2R(Run-to-Run) 솔루션 연구|Time Series|R2R: 이전 공정변수로부터 피드백을 받아서 그 다음 변수를 조절 --> 계측값의 분산이 줄어 불량률을 감소. <br>[연구] 가상데이터를 생성해 선형회귀로 가상계측모델(Virtual Metrology) 구축. 회귀식에서 마지막 변수를 조정변수로 설정해 VM으로 예측한 y hat을 y bar(타겟값)로 보정. --> 보정한 계측값의 분산 77478% 개선. 불량률 감소 기대.||Linear Regression|Python, Statsmodel|2019.10 - 2019.10|
+|이미지 분석 솔루션 개발|Image|반도체/디스플레이 양불 판정|-|Python, Keras, C#|2019.08 - 2019.11|
+|이미지 양불 판정|Image|고객사 담당자를 교육시켜 이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|Object Detection using OpenCV|Python, Keras, OpenCV|2019.11 - 2019.12|
 
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
 
@@ -53,30 +53,30 @@
 ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
 
 
-## Toy Projects
+## Study
 ---
-- #### DL
+- Toy Projects (Kaggle)
+  - #### DL
 |Algorithm|Data Type|Title|Ranking|
 |:-------:|:-------:|:---:|:-----:|
-|LSTM|Sound|Kaggle <br>TensorFlow Speech Recognition Challenge|-|
-|DCGAN|Image|Kaggle <br>Simpsons Faces|-|
-|Segmentation|Image|Kaggle <br>TGS Salt Identification Challenge|2,056/3,229 <br>상위 %0.637%|
-|CNN|Image|Kaggle <br>TensorFlow Speech Recognition Challenge|28/1,314 <br>상위 %0.021%|
-|LSTM|Text, <br>structrued data|Kaggle <br>Mercari Price Suggestion Challenge|47/2,382 <br>상위 0.02%|
-|LSTM|Text|Kaggle <br>Sentiment Analysis on Movie Reviews|22/861 <br>상위 0.026%|
-|LSTM|Text|Kaggle <br>Toxic Comment Classification Challenge|1,451/4,550 <br>상위 0.319%|
+|LSTM|Sound|TensorFlow Speech Recognition Challenge|-|
+|DCGAN|Image|Simpsons Faces|-|
+|Segmentation|Image|TGS Salt Identification Challenge|2,056 / 3,229 <br>(상위 %0.637%)|
+|CNN|Image|Dogs vs. Cats Redux: Kernels Edition|28 / 1,314 <br>(상위 %0.021%)|
+|LSTM|Text, <br>structrued data|Mercari Price Suggestion Challenge|47 / 2,382 <br>(상위 0.02%)|
+|LSTM|Text|Sentiment Analysis on Movie Reviews|22 / 861 <br>(상위 0.026%)|
+|LSTM|Text|Toxic Comment Classification Challenge|1,451 / 4,550 <br>(상위 0.319%)|
 
-- #### ML
+  - #### ML
 |Problem|Algorithm|Title|Ranking|
 |:-----:|:-------:|:---:|:-----:|
-||Kaggle <br>||
-|Regression||Kaggle <br>Mercedes-Benz Greener Manufacturing|11/3,831 <br>상위 0.003%|
-|Classification||Kaggle <br>San Francisco Crime Classification|61/2,332 <br> 상위 0.026%|
-|Regression||Kaggle <br>Housing Prices Competition for Kaggle Learn Users|298/33,855 <br>상위 0.009%|
-|Regression||Kaggle <br>Walmart Recruiting - Store Sales Forecasting|11/690 <br> 상위 %0.16%|
-|Classification||Kaggle <br>Otto Group Product Classification Challenge|560/3,511 <br> 상위 0.159%|
-|Classification||Kaggle <br>Medical Appointment Noshows|-|
-|Regression||Kaggle <br>Bike Sharing Demand|7/3,251 <br> 상위 0.002%|
+|Regression||Mercedes-Benz Greener Manufacturing|11 / 3,831 <br>(상위 0.003%)|
+|Classification||San Francisco Crime Classification|61 / 2,332 <br>(상위 0.026%)|
+|Regression||Housing Prices Competition for Kaggle Learn Users|298 / 33,855 <br>(상위 0.009%)|
+|Regression||Walmart Recruiting - Store Sales Forecasting|11 / 690 <br>(상위 %0.16%)|
+|Classification||Otto Group Product Classification Challenge|560 / 3,511 <br>(상위 0.159%)|
+|Classification||Medical Appointment Noshows|-|
+|Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
 ## Contact
 ---
