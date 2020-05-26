@@ -31,10 +31,11 @@ About
 
 |Title|Data Type|Descrription|Preprocessing|Model|Stack|Duration|
 |:---:|:-------:|:----------:|:-----------:|:---:|:---:|:------:|
-|가상계측 모델|Time Series, <br> structured data|공정 데이터를 활용해 계측값을 예측하는 가상계측 모델을 만들어 계측공정 생략|Anomaly detection, resampling 등|DNN + CNN + biLSTM + Self-Attention|Python, Keras, msSQL|2019.11 - 2019.11|
-|R2R(Run-to-Run) 솔루션 연구|Time Series|R2R: 이전 공정변수로부터 피드백을 받아서 그 다음 변수를 조절 --> 계측값의 분산이 줄어 불량률을 감소. <br>[연구] 가상데이터를 생성해 선형회귀로 가상계측모델(Virtual Metrology) 구축. 회귀식에서 마지막 변수를 조정변수로 설정해 VM으로 예측한 y hat을 y bar(타겟값)로 보정. --> 보정한 계측값의 분산 77478% 개선. 불량률 감소 기대.||Linear Regression|Python, Statsmodel|2019.10 - 2019.10|
-|이미지 분석 솔루션 개발|Image|반도체/디스플레이 양불 판정|-|Python, Keras, C#|2019.08 - 2019.11|
-|이미지 양불 판정|Image|고객사 담당자를 교육시켜 이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|Object Detection using OpenCV|Python, Keras, OpenCV|2019.11 - 2019.12|
+|이미지 양불 판정|Image|반도체/디스플레이 이미지 양불 판정|Object Detection using OpenCV|CNN|Python, Keras, OpenCV|2019.11 - 2019.12|
+|가상계측 모델|Time Series, <br> structured data|공정 데이터를 활용해 계측값을 예측하는 가상계측 모델을 만들어 계측공정 생략|Anomaly detection, resampling 등|DNN + CNN + biLSTM + Self-Attention|Python, Keras, msSQL|2019.10 - 2019.11|
+|R2R(Run-to-Run) 솔루션 연구|Time Series|가상계측모델(VM) 구축. 회귀식에서 마지막 변수를 조정변수로 설정해 VM으로 예측한 y_hat을 y_bar(타겟값)로 보정. --> 계측값의 분산 77478% 개선. 불량률 감소 기대.|가상데이터를 생성, 노이즈 추가|Linear Regression|Python, Statsmodel|2019.10 - 2019.10|
+|이미지 분석 솔루션 개발|Image|이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|내부 알고리즘(이미지 전처리, 모델 아키텍쳐, 하이퍼파라미터 튜닝 등) 구현|Python, Keras, C#|CNN|2019.08 - 2019.10|
+
 
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
 
