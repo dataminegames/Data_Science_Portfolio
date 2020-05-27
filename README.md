@@ -1,9 +1,7 @@
 # Data_Science_Portfolio
----
 
 
 ## About
----
 About
 
 
@@ -21,10 +19,10 @@ About
 
 
 ## Work Experience
----
-- Info
-  - Job Title : AI 연구원
-  - Field : 반도체/디스플레이 등 제조 스마트팩토리 인공지능
+- Description
+  - Job Title: AI 연구원
+	- Work Period: 2019.08 - 2019.12
+  - Field: 반도체/디스플레이 등 제조업 스마트팩토리
   - Dataset: 공정 데이터
   
 - Projects
@@ -33,15 +31,13 @@ About
 |:---:|:-------:|:----------:|:-----------:|:---:|:---:|:------:|
 |이미지 양불 판정|Image|반도체/디스플레이 이미지 양불 판정|Object Detection using OpenCV|CNN|Python, Keras, OpenCV|2019.11 - 2019.12|
 |가상계측 모델|Time series, <br> structured data|공정 데이터를 활용해 계측값을 예측하는 가상계측 모델을 만들어 계측공정 생략|Anomaly detection, resampling 등|DNN + CNN + biLSTM + Self-Attention|Python, Keras, msSQL|2019.10 - 2019.11|
-|R2R(Run-to-Run) 솔루션 연구|Time series|가상계측모델(VM) 구축. <br>이전 공정변수로부터 피드백을 받아서 그 다음 변수를 조절. <br>--> 계측값의 분산 최소화 및 불량률 감소 기대.|가상데이터를 생성, 노이즈 추가|Linear Regression|Python, Statsmodel|2019.10 - 2019.10|
-|이미지 분석 솔루션 개발|Image|이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|내부 알고리즘(이미지 전처리, 모델 아키텍쳐, 하이퍼파라미터 튜닝 등) 구현|Python, Keras, C#|CNN|2019.08 - 2019.10|
-
+|R2R(Run-to-Run) 솔루션 연구|Time series|가상계측모델(VM) 구축. <br>이전 공정변수로부터 피드백을 받아 다음 변수 조절. <br>--> 계측값의 분산 최소화 및 불량률 감소 기대.|가상데이터를 생성, 노이즈 추가|Linear Regression|Python, Statsmodel|2019.10 - 2019.10|
+|이미지 분석 솔루션 개발|Image|이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|내부 알고리즘(이미지 전처리, 모델 아키텍쳐, 하이퍼파라미터 튜닝 등) 구현|CNN|Python, Keras, C#|2019.08 - 2019.10|
 
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
 
 
 ## Projects
-
 |Problem|Descrription|Dataset|Model|Stack|Last Update|
 |:-----:|:----------:|:-----:|:---:|:---:|:---------:|
 |웹앱 개발|https://coronaout.kr <br>코로나아웃::공적마스크 재고 알리미|마스크재고API, <br>판매처 영업시간, 전화번호 크롤링|-|Python, HTML, CSS, JavaScript, KakaoMap API|2020.04|
@@ -55,9 +51,9 @@ About
 
 
 ## Study
----
-- Toy Projects (Kaggle)
-  - #### DL
+- ### Toy Projects (Kaggle)
+  - DL
+	
 |Algorithm|Data Type|Title|Ranking|
 |:-------:|:-------:|:---:|:-----:|
 |LSTM|Sound|TensorFlow Speech Recognition Challenge|-|
@@ -68,7 +64,8 @@ About
 |LSTM|Text|Sentiment Analysis on Movie Reviews|22 / 861 <br>(상위 0.026%)|
 |LSTM|Text|Toxic Comment Classification Challenge|1,451 / 4,550 <br>(상위 0.319%)|
 
-  - #### ML
+  - ML
+	
 |Problem|Algorithm|Title|Ranking|
 |:-----:|:-------:|:---:|:-----:|
 |Regression||Mercedes-Benz Greener Manufacturing|11 / 3,831 <br>(상위 0.003%)|
@@ -79,6 +76,12 @@ About
 |Classification||Medical Appointment Noshows|-|
 |Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
+- ### Algorithm
+문제 풀이
+
+- ### Mathematics
+개념 정리
+
+
 ## Contact
----
 - E-mail: dataminegame@gmail.com
