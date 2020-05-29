@@ -40,7 +40,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |이미지 분석 솔루션 개발|Image|이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|내부 알고리즘(이미지 전처리, 모델 아키텍쳐, 하이퍼파라미터 튜닝 등) 구현|CNN|`Python`, `Keras`, `C#`|2019.08 - 2019.10|
 
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
-<br><br>
+<br><br><br>
 
 
 ## 2. Job-related Experiences <a name="job_related"></a>
@@ -59,7 +59,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 - ### Application
 
 <img width="282" alt="코로나아웃" src="https://user-images.githubusercontent.com/45453533/82897996-7dee4e80-9f93-11ea-8d16-0f54e8d80fce.png"> &emsp;&emsp; ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
-<br><br>
+<br><br><br>
 
 
 ## 4. Study <a name="study"></a>
@@ -98,17 +98,16 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |Classification||Medical Appointment Noshows|-|
 |Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
-<br><br>
-
 
 - ### Data Structure/Algorithm
-[문제 풀이](https://github.com/dataminegames/Algorithm_study/tree/master/Programmers)
-<br><br>
+
+알고리즘 사이트(프로그래머스 등) [문제 풀이](https://github.com/dataminegames/Algorithm_study/tree/master/Programmers)
+<br>
 
 
 - ### Mathematics
 개념 정리 (예정)
-<br><br>
+<br><br><br>
 
 
 ## 5. Contact <a name="contact"></a>
