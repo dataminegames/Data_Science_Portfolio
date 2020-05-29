@@ -2,28 +2,36 @@
 
 
 ## About
-About
+blah blah
 
 
 ## Table of Contents
-- Data Science Road Map
-- Work Experience
+- [1. Job-related Experiences](#job_related)
+- [2. Work Experience](#work_experience)
   - Description
   - Projects
-- Projects
-- Study
+- [3. Major Projects](#major_projects)
+  - Proj. 1
+  - Proj. 2
+- [4. Study](#study)
+  - Ongoing Study
   - Toy Projects (Kaggle)
+  - Algorithm
   - Mathematics
   - Sources
-- Contact
+- [5. Contact](#contact)
 
 
-## Work Experience
+## 1. Job-related Experiences <a name="job_related"></a>
+blah blah
+
+
+## 2. Work Experience <a name="work_experience"></a>
 - Description
+  - Work Period: 2019.08 - 2019.12
   - Job Title: AI 연구원
-	- Work Period: 2019.08 - 2019.12
   - Field: 반도체/디스플레이 등 제조업 스마트팩토리
-  - Dataset: 공정 데이터
+  - Work History: L기업, H기업 스마트팩토리 프로젝트 진행
   
 - Projects
 
@@ -37,7 +45,7 @@ About
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
 
 
-## Projects
+## 3. Major Projects <a name="major_projects"></a>
 |Problem|Descrription|Dataset|Model|Stack|Last Update|
 |:-----:|:----------:|:-----:|:---:|:---:|:---------:|
 |웹앱 개발|https://coronaout.kr <br>코로나아웃::공적마스크 재고 알리미|마스크재고API, <br>판매처 영업시간, 전화번호 크롤링|-|Python, HTML, CSS, JavaScript, KakaoMap API|2020.04|
@@ -50,7 +58,7 @@ About
 ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
 
 
-## Study
+## 4. Study <a name="study"></a>
 - ### Toy Projects (Kaggle)
   - DL
 	
@@ -83,5 +91,5 @@ About
 개념 정리
 
 
-## Contact
+## 5. Contact <a name="contact"></a>
 - E-mail: dataminegame@gmail.com
