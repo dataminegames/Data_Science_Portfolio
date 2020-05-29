@@ -25,10 +25,10 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 ## 1. Work Experience <a name="work_experience"></a>
 - ### Job Description
-  - Field: 반도체/디스플레이 등 제조업 스마트팩토리
   - Job Title: AI 연구원
   - Work Period: 2019.08 - 2019.12
-  - Work History: L기업, H기업 스마트팩토리 프로젝트 진행
+  - Field: 반도체/디스플레이 등 제조업 스마트팩토리
+  - Tasks: L기업, H기업 스마트팩토리 프로젝트 진행
   
 - ### Projects
 
