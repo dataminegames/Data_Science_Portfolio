@@ -101,8 +101,6 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 - ### Data Structure/Algorithm
   - 알고리즘 사이트(프로그래머스 등) [문제 풀이](https://github.com/dataminegames/Algorithm_study/tree/master/Programmers)
-<br>
-
 
 - ### Mathematics
   - 개념 정리 (예정)
