@@ -9,7 +9,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 #### 1. [Work Experience](#work_experience)
 - Job Description
 - Projects
-#### 2. [Job-related Experiences](#job_related)
+#### 2. [Job-related Education](#job_related)
 #### 3. [Major Projects](#major_projects)
 - Projects
 - Application
@@ -43,7 +43,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 <br><br><br>
 
 
-## 2. Job-related Experiences <a name="job_related"></a>
+## 2. Job-related Education <a name="job_related"></a>
 <img width="750" alt="Timeline" src="https://user-images.githubusercontent.com/45453533/83252418-2562bf80-a1e6-11ea-8398-19602ec7f75c.png">
 <br><br>
 
