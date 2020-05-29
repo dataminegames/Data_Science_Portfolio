@@ -1,5 +1,5 @@
 # Data Science Portfolio
-(Last update : 2020.05.29)
+> (Last update : 2020.05.29)
 
 This repository contains my mentionable progress in Data Science. The purpose of this work is to organize my knowledge of the field and to self-motivate through the to-do list.
 <br><br>
