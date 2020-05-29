@@ -70,7 +70,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
   - [x] `프로젝트` Segmentation : baseline --> 성능 올리기 (Kaggle)
   - [x] `프로젝트` DCGAN : baseline --> 성능 올리기 (Kaggle)
   - [x] `코딩` 자료구조 : 매주 level3 이상 2문제 풀기 (프로그래머스 등)
-  - [ ] `코딩` 프레임워크 환승 : Keras --> PyTorch or Tensorflow2.0 (프레임워크 환승)
+  - [ ] `코딩` 프레임워크 : Keras --> PyTorch or Tensorflow2.0
 
 
 - ### Toy Projects (Kaggle)
