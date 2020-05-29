@@ -1,25 +1,22 @@
 # Data_Science_Portfolio
+This repository contains my mentionable progress in Data Science. The purpose of this work is to organize my knowledge of the field and to self-motivate through the to-do list.
 
 
-## About
-blah blah
-
-
-## Table of Contents
-- [1. Job-related Experiences](#job_related)
-- [2. Work Experience](#work_experience)
-  - Description
-  - Projects
-- [3. Major Projects](#major_projects)
-  - Proj. 1
-  - Proj. 2
-- [4. Study](#study)
-  - Ongoing Study
-  - Toy Projects (Kaggle)
-  - Algorithm
-  - Mathematics
-  - Sources
-- [5. Contact](#contact)
+## 0. Table of Contents
+1. [Job-related Experiences](#job_related)
+2. [Work Experience](#work_experience)
+> - Description
+> - Projects
+3. [Major Projects](#major_projects)
+> - Proj. 1
+> - Proj. 2
+4. [Study](#study)
+> - Ongoing Study
+> - Toy Projects (Kaggle)
+> - Data Structure/Algorithm
+> - Mathematics
+> - Sources
+5. [Contact](#contact)
 
 
 ## 1. Job-related Experiences <a name="job_related"></a>
@@ -84,7 +81,7 @@ blah blah
 |Classification||Medical Appointment Noshows|-|
 |Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
-- ### Algorithm
+- ### Data Structure/Algorithm
 문제 풀이
 
 - ### Mathematics
