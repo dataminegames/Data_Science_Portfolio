@@ -1,31 +1,33 @@
-# Data_Science_Portfolio
+# Data Science Portfolio
 (Last update : 2020.05.29)
 
 This repository contains my mentionable progress in Data Science. The purpose of this work is to organize my knowledge of the field and to self-motivate through the to-do list.
+<br><br>
 
 
 ## 0. Table of Contents
-##### 1. [Work Experience](#work_experience)
-> - Job Description
-> - Projects
-##### 2. [Job-related Experiences](#job_related)
-##### 3. [Major Projects](#major_projects)
-> - Projects
-> - Application
-##### 4. [Study](#study)
-> - Ongoing Study/To-do List
-> - Toy Projects (Kaggle)
-> - Data Structure/Algorithm
-> - Mathematics
-> - Sources
-##### 5. [Contact](#contact)
+#### 1. [Work Experience](#work_experience)
+- Job Description
+- Projects
+#### 2. [Job-related Experiences](#job_related)
+#### 3. [Major Projects](#major_projects)
+- Projects
+- Application
+#### 4. [Study](#study)
+- Ongoing Study/To-do List
+- Toy Projects (Kaggle)
+- Data Structure/Algorithm
+- Mathematics
+- Sources
+#### 5. [Contact](#contact)
+<br><br>
 
 
 ## 1. Work Experience <a name="work_experience"></a>
 - ### Job Description
-  - Work Period: 2019.08 - 2019.12
-  - Job Title: AI 연구원
   - Field: 반도체/디스플레이 등 제조업 스마트팩토리
+  - Job Title: AI 연구원
+  - Work Period: 2019.08 - 2019.12
   - Work History: L기업, H기업 스마트팩토리 프로젝트 진행
   
 - ### Projects
@@ -38,11 +40,12 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |이미지 분석 솔루션 개발|Image|이미지 분류 모델을 커스터마이징 할 수 있도록 자체 솔루션 베타버전 개발|내부 알고리즘(이미지 전처리, 모델 아키텍쳐, 하이퍼파라미터 튜닝 등) 구현|CNN|`Python`, `Keras`, `C#`|2019.08 - 2019.10|
 
 *보안상의 이유로 구체적인 데이터와 성능은 공개하지 않겠습니다.
+<br><br>
 
 
 ## 2. Job-related Experiences <a name="job_related"></a>
 <img width="750" alt="Timeline" src="https://user-images.githubusercontent.com/45453533/83252418-2562bf80-a1e6-11ea-8398-19602ec7f75c.png">
-
+<br><br>
 
 
 ## 3. Major Projects <a name="major_projects"></a>
@@ -56,6 +59,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 - ### Application
 
 <img width="282" alt="코로나아웃" src="https://user-images.githubusercontent.com/45453533/82897996-7dee4e80-9f93-11ea-8d16-0f54e8d80fce.png"> &emsp;&emsp; ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
+<br><br>
 
 
 ## 4. Study <a name="study"></a>
@@ -70,7 +74,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 
 - ### Toy Projects (Kaggle)
-  - DL
+> - DL
 	
 |Algorithm|Data Type|Title|Ranking|
 |:-------:|:-------:|:---:|:-----:|
@@ -82,7 +86,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |LSTM|Text|Sentiment Analysis on Movie Reviews|22 / 861 <br>(상위 0.026%)|
 |LSTM|Text|Toxic Comment Classification Challenge|1,451 / 4,550 <br>(상위 0.319%)|
 
-  - ML
+> - ML
 	
 |Problem|Algorithm|Title|Ranking|
 |:-----:|:-------:|:---:|:-----:|
@@ -94,11 +98,17 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |Classification||Medical Appointment Noshows|-|
 |Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
+<br><br>
+
+
 - ### Data Structure/Algorithm
-문제 풀이
+[문제 풀이](https://github.com/dataminegames/Algorithm_study/tree/master/Programmers)
+<br><br>
+
 
 - ### Mathematics
 개념 정리 (예정)
+<br><br>
 
 
 ## 5. Contact <a name="contact"></a>
