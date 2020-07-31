@@ -1,5 +1,5 @@
 # Data Science Portfolio
-> (Last update : 2020.05.29)
+> (Last update : 2020.07.31)
 
 This repository contains my mentionable progress in Data Science. The purpose of this work is to organize my knowledge of the field and to self-motivate through the to-do list.
 <br><br>
@@ -17,8 +17,6 @@ This repository contains my mentionable progress in Data Science. The purpose of
 - Ongoing Study/To-do List
 - Toy Projects (Kaggle)
 - Data Structure/Algorithm
-- Mathematics
-- Sources
 #### 5. [Contact](#contact)
 <br><br>
 
@@ -65,15 +63,23 @@ This repository contains my mentionable progress in Data Science. The purpose of
 ## 4. Study <a name="study"></a>
 - ### Ongoing Study/To-do List
   - [x] `수학` ~~선형대수 강의 : 주재걸 교수님 (Edwith)~~
-  - [x] `수학` 선형대수 강의 : 이상화 교수님 (KOCW)
-  - [ ] `수학` 선형대수 강의 : 이옥연 교수님 (OCW)
-  - [x] `프로젝트` Segmentation : baseline --> 성능 올리기 (Kaggle)
-  - [x] `프로젝트` DCGAN : baseline --> 성능 올리기 (Kaggle)
-  - [x] `코딩` 자료구조 : 매주 level3 이상 2문제 풀기 (프로그래머스 등)
+  - [x] `수학` ~~선형대수 강의 : 이상화 교수님 (KOCW)~~
+  - [x] `프로젝트` ~~추천시스템 : Content Based Filtering~~
+  - [x] `프로젝트` ~~추천시스템 : Colaborative Filtering (Item Based CF)~~
+  - [ ] `프로젝트` 추천시스템 : Colaborative Filtering (SVD, Metrix Factorization)
+  - [x] `코딩` 자료구조 : ~~매주 level3(프로그래머스)/골드(백준) 이상 6문제 풀기~~
   - [ ] `코딩` 프레임워크 : Keras --> PyTorch or Tensorflow2.0
 
 
 - ### Toy Projects (Kaggle)
+
+> - Recommandation System
+
+|Algorithm|Dataset|
+|:-------:|:---:|
+|Content Based Filtering|tmdb-movie-metadata|
+|Colaborative Filtering|movielens-100k-dataset|
+
 > - DL
 	
 |Algorithm|Data Type|Title|Ranking|
@@ -99,12 +105,10 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |Regression||Bike Sharing Demand|7 / 3,251 <br>(상위 0.002%)|
 
 
+
 - ### Data Structure/Algorithm
   - 알고리즘 사이트(프로그래머스 등) [문제 풀이](https://github.com/dataminegames/Algorithm_study/tree/master/Programmers)
 
-- ### Mathematics
-  - 개념 정리 (예정)
-<br><br><br>
 
 
 ## 5. Contact <a name="contact"></a>
