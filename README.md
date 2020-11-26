@@ -46,7 +46,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 |Name|Organizer|Problem|Prize|Article|Date|
 |:--:|:-------:|:-----:|:---:|:-----:|:--:|
 |2020 빅데이터</br>활용 경진대회|더존비즈온,</br>한국정보화진흥원|`주제 1`:</br>대한민국 중소중견기업의 매출 예측</br>(중소중견기업 10개 분기 데이터를 활용해 다음 분기 매출 예측)</br></br>`주제 2`:</br>대한민국 유통 활성화를 위한 적요 표준화</br>(중소중견기업 산업별 회계장부 적요 텍스트 데이터 비지도 분류)|대상|[링크](https://www.mk.co.kr/news/business/view/2020/11/1131764/)|2020.11.03|
-|빅데이터를 활용한</br>소셜마케팅|한국경제신문|지체장애인 서울시 저상버스 이용 증진</br>(데이터 시각화 및 텍스트 분석을 통한 인사이트 기반 마케팅 제안)|입상|[링크](https://www.hankyung.com/news/article/2017021626771)|2017.02.11|
+|빅데이터</br>소셜마케팅|한국경제신문|지체장애인 서울시 저상버스 이용 증진</br>(데이터 시각화 및 텍스트 분석을 통한 인사이트 기반 마케팅 제안)|장려상|[링크](https://www.hankyung.com/news/article/2017021626771)|2017.02.11|
 
 </br></br>
 
