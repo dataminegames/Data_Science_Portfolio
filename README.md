@@ -9,15 +9,16 @@ This repository contains my mentionable progress in Data Science. The purpose of
 #### 1. [Work Experience](#work_experience)
 - Job Description
 - Projects
-#### 2. [Job-related Education](#job_related)
-#### 3. [Major Projects](#major_projects)
+#### 2. [Awards](#awards)
+#### 3. [Job-related Education](#job_related)
+#### 4. [Major Projects](#major_projects)
 - Projects
 - Application
-#### 4. [Study](#study)
+#### 5. [Study](#study)
 - Ongoing Study/To-do List
 - Toy Projects (Kaggle)
 - Data Structure/Algorithm
-#### 5. [Contact](#contact)
+#### 6. [Contact](#contact)
 <br><br>
 
 
@@ -49,12 +50,12 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 </br></br>
 
-## 2. Job-related Education <a name="job_related"></a>
+## 3. Job-related Education <a name="job_related"></a>
 <img width="750" alt="Timeline" src="https://user-images.githubusercontent.com/45453533/83252418-2562bf80-a1e6-11ea-8398-19602ec7f75c.png">
 <br><br>
 
 
-## 3. Major Projects <a name="major_projects"></a>
+## 4. Major Projects <a name="major_projects"></a>
 - ### Projects
 
 |Problem|Description|Dataset|Model|Stack|Last Update|
@@ -68,7 +69,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 <br><br><br>
 
 
-## 4. Study <a name="study"></a>
+## 5. Study <a name="study"></a>
 - ### Toy Projects (Kaggle)
 
 > - Recommandation System
@@ -109,5 +110,5 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 
 
-## 5. Contact <a name="contact"></a>
+## 6. Contact <a name="contact"></a>
 - E-mail: dataminegame@gmail.com
