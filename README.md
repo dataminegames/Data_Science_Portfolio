@@ -1,5 +1,5 @@
 # Data Science Portfolio
-> (Last update : 2020.07.31)
+> (Last update : 2020.11.26)
 
 This repository contains my mentionable progress in Data Science. The purpose of this work is to organize my knowledge of the field and to self-motivate through the to-do list.
 <br><br>
@@ -41,6 +41,14 @@ This repository contains my mentionable progress in Data Science. The purpose of
 <br><br><br>
 
 
+## 2. Awards <a name="awards"></a>
+|Name|Organizer|Problem|Prize|Date|
+|:--:|:-------:|:-----:|:---:|:--:|
+|2020 빅데이터</br>활용 경진대회|더존비즈온,</br>한국정보화진흥원|`주제 1`:</br>대한민국 중소중견기업의 매출 예측</br>(중소중견기업 10개 분기 데이터를 활용해 다음 분기 매출 예측)</br></br>`주제 2`:</br>대한민국 유통 활성화를 위한 적요 표준화</br>(중소중견기업 산업별 회계장부 적요 텍스트 데이터 비지도 분류)|대상|2020.11.03|
+|빅데이터를 활용한</br>소셜마케팅|한국경제신문|지체장애인 서울시 저상버스 이용 증진</br>(데이터 시각화 및 텍스트 분석을 통한 인사이트 기반 마케팅 제안)|입상|2017.02.11|
+
+</br></br>
+
 ## 2. Job-related Education <a name="job_related"></a>
 <img width="750" alt="Timeline" src="https://user-images.githubusercontent.com/45453533/83252418-2562bf80-a1e6-11ea-8398-19602ec7f75c.png">
 <br><br>
@@ -49,7 +57,7 @@ This repository contains my mentionable progress in Data Science. The purpose of
 ## 3. Major Projects <a name="major_projects"></a>
 - ### Projects
 
-|Problem|Descrription|Dataset|Model|Stack|Last Update|
+|Problem|Description|Dataset|Model|Stack|Last Update|
 |:-----:|:----------:|:-----:|:---:|:---:|:---------:|
 |웹앱 개발|코로나아웃::공적마스크 재고 알리미 <br>https://coronaout.kr|마스크재고API, <br>판매처 영업시간 및 전화번호 크롤링|-|`Python`, `HTML`, `CSS`, `JavaScript`, `KakaoMap API`|2020.04|
 |감성분석|[식당 리뷰에서 <br>가성비/웨이팅/서비스에 대한 감성 분석](https://github.com/dataminegames/MangoPlate_NLP)|망고플레이트 <br>식당 리뷰 크롤링|biLSTM + self-Attention, Boosting(LightGBM)|`Python`, `PyTorch`, `Sklearn`, `Flask`, `HTML`, `CSS`, `jQuery`|2019.06|
@@ -61,16 +69,6 @@ This repository contains my mentionable progress in Data Science. The purpose of
 
 
 ## 4. Study <a name="study"></a>
-- ### Ongoing Study/To-do List
-  - [x] `수학` ~~선형대수 강의 : 주재걸 교수님 (Edwith)~~
-  - [x] `수학` ~~선형대수 강의 : 이상화 교수님 (KOCW)~~
-  - [x] `프로젝트` ~~추천시스템 : Content Based Filtering~~
-  - [x] `프로젝트` ~~추천시스템 : Colaborative Filtering (Item Based CF)~~
-  - [ ] `프로젝트` 추천시스템 : Colaborative Filtering (SVD, Metrix Factorization)
-  - [x] `코딩` 자료구조 : ~~매주 level3(프로그래머스)/골드(백준) 이상 6문제 풀기~~
-  - [ ] `코딩` 프레임워크 : Keras --> PyTorch or Tensorflow2.0
-
-
 - ### Toy Projects (Kaggle)
 
 > - Recommandation System
